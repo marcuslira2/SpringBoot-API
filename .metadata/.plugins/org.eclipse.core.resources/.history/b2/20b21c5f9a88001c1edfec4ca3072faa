@@ -1,0 +1,10 @@
+package com.example.demo.restservice;
+
+
+
+public class Greeting {
+	
+	private final Long id;
+	private final String content;
+
+}

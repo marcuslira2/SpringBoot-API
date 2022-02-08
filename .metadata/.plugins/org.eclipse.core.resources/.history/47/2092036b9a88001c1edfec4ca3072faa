@@ -1,0 +1,12 @@
+package com.example.demo.restservice;
+
+import lombok.Data;
+import lombok.Getter;
+
+@Getter
+public class Greeting {
+	
+	private final Long id;
+	private final String content;
+
+}
